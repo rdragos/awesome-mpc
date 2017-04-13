@@ -23,6 +23,8 @@ Please feel free to do a pull request with any MPC software or resource you know
 
 - [Secure Multiparty Computation and Secret Sharing](http://www.cambridge.org/dk/academic/subjects/computer-science/cryptography-cryptology-and-coding/secure-multiparty-computation-and-secret-sharing?format=HB) - comprehensive treatment of unconditionally secure techniques for multiparty computation (MPC) and secret sharing.
 
+- [Applications of Secure Multiparty Computation](http://ebooks.iospress.nl/volume/applications-of-secure-multiparty-computation) - collection of MPC protocols for several real-world tasks such as statistics
+
 ### Courses
 
 - [FHE-MPC Advanced Grad Course](https://www.cs.bris.ac.uk/home/nigel/FHE-MPC/) - `informal grad course' in FHE and MPC.
@@ -53,6 +55,7 @@ Here I tried to reference the most recent article found on specific software sin
 - [OT Extension](https://github.com/encryptogroup/OTExtension) - OT Extension secure against malicious adversaries | [2015/061](https://eprint.iacr.org/2015/061).
 - [SCAPI](https://github.com/cryptobiu/scapi) - various secure computation API's carefully documented with a clean code design in mind | [2012/629](http://eprint.iacr.org/2012/629).
 - [SplitCommit](https://github.com/AarhusCrypto/SplitCommit) - Additively homomorphic commitment scheme | [2015/694](http://eprint.iacr.org/2015/694).
+- [tss](https://github.com/snipsco/rust-threshold-secret-sharing) - efficient (packed) threshold secret sharing
 
 ## Protocols
 - [BaRK-OPRF](https://github.com/osu-crypto/BaRK-OPRF) - Private Set Intersection | [2016/799](https://eprint.iacr.org/2016/799).
