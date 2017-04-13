@@ -2,7 +2,7 @@
 
 The list format was inspired from [awesome list](https://github.com/sindresorhus/awesome) and after a fruitful lunch discussion at [TPMPC](http://www.multipartycomputation.com/). It is designed to have a central place where everyone can find open-source software designed for MPC as well as introductory material to this topic.
 
-Moreover, the list of libraries is given alphabetically and divided into categories which are actively maintained or recently developed.
+Moreover, the list is given alphabetically and divided into categories of libraries which are actively maintained or recently developed.
 
 Please feel free to do a pull request with any MPC software or resource you know and it is not on the list. The current classification might not be most suitable one and I am open to any suggestions.
 
