@@ -6,7 +6,8 @@ Moreover, the list is given alphabetically and divided into categories of librar
 
 Please feel free to do a pull request with any MPC software or resource you know and it is not on the list. The current classification might not be most suitable one and I am open to any suggestions.
 
-### Contents
+## Contents
+
 - [Theory](#theory)
 	- [Books](#books)
 	- [Courses](#courses)
