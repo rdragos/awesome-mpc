@@ -11,7 +11,8 @@ Please feel free to do a pull request with any MPC software or resource you know
 	- [Books](#books)
 	- [Courses](#courses)
 	- [Tutorials](#tutorials)
-- [MPC Software](#mpc-software)
+- [Misc](#misc)
+- [Software](#software)
 	- [Frameworks](#frameworks)
 	- [Primitives](#primitives)
  	- [Protocols](#protocols)
@@ -36,7 +37,11 @@ Please feel free to do a pull request with any MPC software or resource you know
 - [The 1st BIU Winter School](http://cyber.biu.ac.il/event/the-1st-biu-winter-school/) - Introductory lectures for basic secure computation constructions.
 - [The 5th BIU Winter School](http://cyber.biu.ac.il/event/the-5th-biu-winter-school/) - Tutorials and recent advances in secure computation delivered in video format.
 
-## MPC Software
+## Misc
+
+- [ePrint papers](http://users-cs.au.dk/psn/list/) - Auto-updated list of secure computation papers.
+
+## Software
 
 Here I tried to reference the most recent article found on specific software since enumerating all changes including the original paper is too cumbersome.
 
@@ -70,6 +75,7 @@ Here I tried to reference the most recent article found on specific software sin
 ## Tools
 - [CBMC-GC](http://www.seceng.informatik.tu-darmstadt.de/index.php/research/software/cbmc-gc/) - Creates Boolean circuits from ANSI-C code optimized for secure computation | [ShallowCC](http://www.seceng.informatik.tu-darmstadt.de/assets/buescher/ShallowCC16.pdf).
 - [UC Compiler](https://github.com/encryptogroup/UC) - Valiant's Universal Circuit Compiler | [2016/093](https://eprint.iacr.org/2016/093).
+
 
 ## Contribute
 
