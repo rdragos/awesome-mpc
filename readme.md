@@ -41,7 +41,7 @@ Please feel free to do a pull request with any MPC software or resource you know
 
 ## Misc
 
-- [ePrint papers](http://users-cs.au.dk/psn/list/) - Auto-updated list of secure computation papers.
+- [ePrint papers](http://users-cs.au.dk/psn/list/) - Frquently updated list of secure computation papers appearing on IACR eprint.
 
 ## Software
 
@@ -52,7 +52,7 @@ Here I tried to reference the most recent article found on specific software sin
 - [ABY](https://github.com/encryptogroup/ABY) - 2PC with secret sharing and garbled circuits; secure against semi-honest adversaries | [NDSS'15](http://encrypto.de/papers/DSZ15.pdf).
 - [batchDualEx](https://github.com/osu-crypto/batchDualEx) - 2PC with garbled circuits; secure against malicious adversaries | eprint: [2016/632](https://eprint.iacr.org/2016/632).
 - [Duplo](https://github.com/AarhusCrypto/DUPLO) - 2PC with garbled circuits; secure against malicious adversaries.
-- [Fresco](http://fresco.readthedocs.io/en/latest/) - MPC supporting BGW or SPDZ protocols; secure against semi-honest or malicious adversaries | [Practice'15](http://practice-project.eu/downloads/publications/D22.1-State-of-the-art-analysis-PU-V1.1.pdf).
+- [FRESCO](http://fresco.readthedocs.io/en/latest/) - MPC supporting TinyTables or SPDZ protocols; secure against semi-honest or malicious adversaries | [Practice'15](http://practice-project.eu/downloads/publications/D22.1-State-of-the-art-analysis-PU-V1.1.pdf).
 - [Obliv-C](http://oblivc.org/) - 2PC with garbled circuits; secure against semi-honest adversaries | eprint: [2015/1153](http://eprint.iacr.org/2015/1153).
 - [Sharemind](https://sharemind.cyber.ee/) - 2PC or 3PC with secret sharing; secure against semi-honest adversaries | [Cyber'13](https://cyber.ee/uploads/2013/04/Jagomagis_msc.pdf).
 - [SPDZ](https://www.cs.bris.ac.uk/Research/CryptographySecurity/SPDZ/) - General MPC with secret sharing; secure against malicious adversaries | eprint: [2016/505](http://eprint.iacr.org/2016/505).
