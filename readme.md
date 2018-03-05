@@ -41,7 +41,7 @@ Please feel free to do a pull request with any MPC software or resource you know
 
 ## Misc
 
-- [ePrint papers](http://users-cs.au.dk/psn/list/) - Frquently updated list of secure computation papers appearing on IACR eprint.
+- [ePrint papers](http://users-cs.au.dk/psn/list/) - Frequently updated list of secure computation papers appearing on IACR eprint.
 
 ## Software
 
