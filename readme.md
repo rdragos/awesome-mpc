@@ -83,6 +83,7 @@ Here I tried to reference the most recent article found on specific software sin
 
 - [Semi-honest BMR](https://github.com/cryptobiu/Semi-Honest-BMR) - BMR protocol secure against semi-honest adversaries | [2016/1066](https://eprint.iacr.org/2016/1066).
 - [Tasty](https://github.com/encryptogroup/tasty) - 2PC with garbled circuits and homomorphic encryption | [2010/365](https://eprint.iacr.org/2010/365).
+- [VIFF](http://http://viff.dk/) - VIFF, the Virtual Ideal Functionality Framework.
 
 ## Contribute
 
