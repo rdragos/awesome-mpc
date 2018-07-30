@@ -84,6 +84,8 @@ Here I tried to reference the most recent article found on specific software sin
 ## Other software - long-time since last commit
 
 - [Semi-honest BMR](https://github.com/cryptobiu/Semi-Honest-BMR) - BMR protocol secure against semi-honest adversaries | [2016/1066](https://eprint.iacr.org/2016/1066).
+- [FairPlayMP](https://github.com/FaiplayMP/FairplayMP) - GMW based multi-party protocol secure against semi-honest adversaries | [CCS'08](http://www.cs.huji.ac.il/project/Fairplay/FairplayMP/FairplayMP.pdf).
+- [MPyC](https://www.win.tue.nl/%7Eberry/mpyc/) - BGW honest majority multi-party protocol secure against semi-honest adversaries | [slides](https://www.win.tue.nl/~berry/mpyc/TPMPC2018.pdf).
 - [Tasty](https://github.com/encryptogroup/tasty) - 2PC with garbled circuits and homomorphic encryption | [2010/365](https://eprint.iacr.org/2010/365).
 - [VIFF](http://viff.dk/) - 3+PC with secret sharing; secure against semi-honest adveraries.
 
