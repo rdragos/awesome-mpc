@@ -80,6 +80,7 @@ Here I tried to reference the most recent article found on specific software sin
 
 ## Tools
 - [CBMC-GC](http://www.seceng.informatik.tu-darmstadt.de/index.php/research/software/cbmc-gc/) - Creates Boolean circuits from ANSI-C code optimized for secure computation | [ShallowCC](http://www.seceng.informatik.tu-darmstadt.de/assets/buescher/ShallowCC16.pdf).
+- [Tiny-Garble](https://github.com/esonghori/TinyGarble) -  Logic Synthesis and Sequential Descriptions for Yao's Garbled Circuits | [S&P'15](http://aceslab.org/sites/default/files/TinyGarble.pdf).
 - [UC Compiler](https://github.com/encryptogroup/UC) - Valiant's Universal Circuit Compiler | [2016/093](https://eprint.iacr.org/2016/093).
 
 ## Other software - long-time since last commit
