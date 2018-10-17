@@ -18,6 +18,7 @@ Please feel free to do a pull request with any MPC software or resource you know
 	- [Primitives](#primitives)
  	- [Protocols](#protocols)
 	- [Tools](#tools)
+	- [Retired](#retired-software)
 - [Workshops](#workshops)
 
 ## Theory
@@ -52,7 +53,7 @@ Please feel free to do a pull request with any MPC software or resource you know
 
 Here I tried to reference the most recent article found on specific software since enumerating all changes including the original paper is too cumbersome.
 
-## Frameworks
+### Frameworks
 
 - [ABY](https://github.com/encryptogroup/ABY) - 2PC with secret sharing and garbled circuits; secure against semi-honest adversaries | [NDSS'15](http://encrypto.de/papers/DSZ15.pdf).
 - [batchDualEx](https://github.com/osu-crypto/batchDualEx) - 2PC with garbled circuits; secure against malicious adversaries | eprint: [2016/632](https://eprint.iacr.org/2016/632).
@@ -68,7 +69,7 @@ Here I tried to reference the most recent article found on specific software sin
 - [SPDZ-Yao](https://github.com/mkskeller/SPDZ-Yao) - 2PC with garbled circuits; high-level language similar to SPDZ; secure against semi-honest adversaries.
 - [TinyLEGO](https://github.com/AarhusCrypto/TinyLEGO) - 2PC with garbled circuits; secure against malicious adversaries | eprint: [2015/309](http://eprint.iacr.org/2015/309).
 
-## Primitives
+### Primitives
 - [APRICOT](https://github.com/bristolcrypto/apricot) - OT Extension secure against malicious adversaries | [2015/546](http://eprint.iacr.org/2015/546).
 - [libOTe](https://github.com/osu-crypto/libOTe) - Library with various OT Extensions.
 - [OT Extension](https://github.com/encryptogroup/OTExtension) - OT Extension secure against malicious adversaries | [2015/061](https://eprint.iacr.org/2015/061).
@@ -77,26 +78,27 @@ Here I tried to reference the most recent article found on specific software sin
 - [TSS](https://github.com/snipsco/rust-threshold-secret-sharing) - A pure-Rust implementation of various threshold secret sharing schemes.
 
 
-## Protocols
+### Protocols
 - [BaRK-OPRF](https://github.com/osu-crypto/BaRK-OPRF) - Private Set Intersection | [2016/799](https://eprint.iacr.org/2016/799).
 - [Linreg](https://github.com/schoppmp/linreg-mpc/) - Privacy preserving linear regression | [2016/892](https://eprint.iacr.org/2016/892).
 - [Geppetri](https://github.com/meilof/geppetri) - Verifiable 3PC | [2017/013](https://eprint.iacr.org/2017/013).
 - [ORAM (Obliv-C)](http://oblivc.org/sqoram/) - Oblivous RAM | [S&P'16](http://oblivc.org/docs/sqoram.pdf).
 - [PSI](https://github.com/encryptogroup/PSI) - Private Set Intersection | [2014/447](https://eprint.iacr.org/2014/447).
 
-## Tools
+### Tools
 - [CBMC-GC](https://gitlab.com/securityengineering/CBMC-GC-2) - Creates Boolean circuits from ANSI-C code optimized for secure computation | [ShallowCC](http://www.seceng.informatik.tu-darmstadt.de/assets/buescher/ShallowCC16.pdf).
 - [MPC-SoK](https://github.com/MPC-SoK/frameworks) - Build environments for many MPC frameworks using Docker containers. 
 - [Tiny-Garble](https://github.com/esonghori/TinyGarble) -  Logic Synthesis and Sequential Descriptions for Yao's Garbled Circuits | [S&P'15](http://aceslab.org/sites/default/files/TinyGarble.pdf).
 - [UC Compiler](https://github.com/encryptogroup/UC) - Valiant's Universal Circuit Compiler | [2016/093](https://eprint.iacr.org/2016/093).
 
-## Other software - long-time since last commit
+### Retired software
 
 - [FairPlayMP](https://github.com/FaiplayMP/FairplayMP) - GMW based multi-party protocol secure against semi-honest adversaries | [CCS'08](http://www.cs.huji.ac.il/project/Fairplay/FairplayMP/FairplayMP.pdf).
 - [Myst](https://github.com/OpenCryptoProject/Myst) - Secure Multiparty Key Generation, Signature and Decryption JavaCard applet and host application | [CCS'17](https://acmccs.github.io/papers/p1583-mavroudisA.pdf).
 - [Semi-honest BMR](https://github.com/cryptobiu/Semi-Honest-BMR) - BMR protocol secure against semi-honest adversaries | [2016/1066](https://eprint.iacr.org/2016/1066).
 - [Tasty](https://github.com/encryptogroup/tasty) - 2PC with garbled circuits and homomorphic encryption | [2010/365](https://eprint.iacr.org/2010/365).
 - [VIFF](http://viff.dk/) - 3+PC with secret sharing; secure against semi-honest adveraries.
+
 
 ## Workshops
 
