@@ -18,7 +18,7 @@ Please feel free to do a pull request with any MPC software or resource you know
 	- [Primitives](#primitives)
  	- [Protocols](#protocols)
 	- [Tools](#tools)
-	- [Retired](#retired-software)
+	- [Retired software](#retired-software)
 - [Workshops](#workshops)
 
 ## Theory
@@ -95,6 +95,7 @@ Here I tried to reference the most recent article found on specific software sin
 
 - [FairPlayMP](https://github.com/FaiplayMP/FairplayMP) - GMW based multi-party protocol secure against semi-honest adversaries | [CCS'08](http://www.cs.huji.ac.il/project/Fairplay/FairplayMP/FairplayMP.pdf).
 - [Myst](https://github.com/OpenCryptoProject/Myst) - Secure Multiparty Key Generation, Signature and Decryption JavaCard applet and host application | [CCS'17](https://acmccs.github.io/papers/p1583-mavroudisA.pdf).
+- [SDA](https://github.com/snipsco/sda) - Secure distributed aggregation of high-dimensional vectors.
 - [Semi-honest BMR](https://github.com/cryptobiu/Semi-Honest-BMR) - BMR protocol secure against semi-honest adversaries | [2016/1066](https://eprint.iacr.org/2016/1066).
 - [Tasty](https://github.com/encryptogroup/tasty) - 2PC with garbled circuits and homomorphic encryption | [2010/365](https://eprint.iacr.org/2010/365).
 - [VIFF](http://viff.dk/) - 3+PC with secret sharing; secure against semi-honest adveraries.
