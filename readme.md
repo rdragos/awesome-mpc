@@ -48,6 +48,7 @@ Please feel free to do a pull request with any MPC software or resource you know
 ## Misc
 
 - [ePrint papers](https://guutboy.github.io) - Frequently updated list of secure computation papers appearing on IACR eprint.
+- [SoK-MPC Framework Survey](https://github.com/MPC-SoK/frameworks) - Repository of sample programs implemented in a large number of different MPC frameworks. 
 
 ## Software
 
