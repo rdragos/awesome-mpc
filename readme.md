@@ -28,7 +28,6 @@ Please feel free to do a pull request with any MPC software or resource you know
 - [Applications of Secure Multiparty Computation](http://ebooks.iospress.nl/volume/applications-of-secure-multiparty-computation) - Collection of MPC protocols for several real-world tasks such as statistics.
 - [Efficient Secure Two-Party Protocols](https://www.springer.com/us/book/9783642143021) - Comprehensive study of efficient protocols and techniques for secure two-party computation – both general constructions that can be used to securely compute any functionality, and protocols for specific problems of interest.
 - [Secure Multiparty Computation and Secret Sharing](http://www.cambridge.org/dk/academic/subjects/computer-science/cryptography-cryptology-and-coding/secure-multiparty-computation-and-secret-sharing?format=HB) - Comprehensive treatment of unconditionally secure techniques for multiparty computation (MPC) and secret sharing.
-- [Secure Multiparty Computation I](https://simons.berkeley.edu/talks/yuval-ishai-2015-05-21a) and [Secure Multiparty Computation II](https://simons.berkeley.edu/talks/yuval-ishai-2015-05-21b) - Video lectures delivered by Yuval Ishai, Technion Israel Institute of Technology.
 
 ### Courses
 
@@ -44,6 +43,7 @@ Please feel free to do a pull request with any MPC software or resource you know
 - [The 1st BIU Winter School](http://cyber.biu.ac.il/event/the-1st-biu-winter-school/) - Introductory lectures for basic secure computation constructions.
 - [The 5th BIU Winter School](http://cyber.biu.ac.il/event/the-5th-biu-winter-school/) - Tutorials and recent advances in secure computation delivered in video format.
 - [UC Security](https://www.youtube.com/playlist?list=PLqc9MPlwib9nSuyH4oUIwPsyDiZ4bwuEE) - Video lectures on UC security delivered by Ran Canetti.
+- [Secure Multiparty Computation I](https://simons.berkeley.edu/talks/yuval-ishai-2015-05-21a) and [Secure Multiparty Computation II](https://simons.berkeley.edu/talks/yuval-ishai-2015-05-21b) - Video lectures delivered by Yuval Ishai, Technion Israel Institute of Technology.
 
 ## Misc
 
