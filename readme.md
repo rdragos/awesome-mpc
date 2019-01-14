@@ -78,7 +78,7 @@ Here I tried to reference the most recent article found on specific software sin
 ### Protocols
 
 - [BaRK-OPRF](https://github.com/osu-crypto/BaRK-OPRF) - Private Set Intersection. | [2016/799](https://eprint.iacr.org/2016/799).
-- [Blockchain-Crypto-MPC](https://github.com/unbound-tech/blockchain-crypto-mpc) - Multiparty ECDSA signing in the cryptocurrency setting, includes an optimized GC library, OT, and more. | [whitepaper](https://github.com/unbound-tech/blockchain-crypto-mpc/blob/master/docs/Unbound%20Cryptocurrency%20Wallet%20Library%20White%20Paper.pdf).
+- [Blockchain-Crypto-MPC](https://github.com/unbound-tech/blockchain-crypto-mpc) - Multiparty ECDSA signing in the cryptocurrency setting, includes an optimized GC library, OT, and more. | [CCS'18](https://eprint.iacr.org/2018/987).
 - [Linreg](https://github.com/schoppmp/linreg-mpc/) - Privacy preserving linear regression. | [2016/892](https://eprint.iacr.org/2016/892).
 - [Geppetri](https://github.com/meilof/geppetri) - Verifiable 3PC. | [2017/013](https://eprint.iacr.org/2017/013).
 - [ORAM (Obliv-C)](http://oblivc.org/sqoram/) - Oblivous RAM. | [S&P'16](http://oblivc.org/docs/sqoram.pdf).
