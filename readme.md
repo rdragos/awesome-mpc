@@ -71,6 +71,7 @@ Here I tried to reference the most recent article found on specific software sin
 ### Primitives
 
 - [APRICOT](https://github.com/bristolcrypto/apricot) - OT Extension secure against malicious adversaries. | [2015/546](http://eprint.iacr.org/2015/546).
+- [Distributed Vector-OLE](https://github.com/schoppmp/distributed-vector-ole) - A two-party generator for Vector-OLE correlations. [CCS'19](https://eprint.iacr.org/2019/1084.pdf).
 - [LibOTe](https://github.com/osu-crypto/libOTe) - Library with various OT Extensions.
 - [OT Extension](https://github.com/encryptogroup/OTExtension) - OT Extension secure against malicious adversaries. | [2015/061](https://eprint.iacr.org/2015/061).
 - [SCAPI](https://github.com/cryptobiu/libscapi) - Various secure computation API's carefully documented with a clean code design in mind. | [2012/629](http://eprint.iacr.org/2012/629).
