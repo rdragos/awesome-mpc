@@ -88,6 +88,7 @@ Here I tried to reference the most recent article found on specific software sin
 - [MPECDSA](https://gitlab.com/neucrypt/mpecdsa) - Threshold multiparty ECDSA from ECDSA assumptions. | [S&P'19](https://eprint.iacr.org/2019/523.pdf).
 - [ORAM (Obliv-C)](http://oblivc.org/sqoram/) - Oblivous RAM. | [S&P'16](http://oblivc.org/docs/sqoram.pdf).
 - [PSI](https://github.com/encryptogroup/PSI) - Private Set Intersection. | [2014/447](https://eprint.iacr.org/2014/447).
+- [ROOM](https://github.com/schoppmp/room-framework) - Read-Only Oblivious Maps and applications to secure machine learning on sparse data. | [CCS'19](https://eprint.iacr.org/2019/281.pdf).
 
 ### Tools
 - [CBMC-GC](https://gitlab.com/securityengineering/CBMC-GC-2) - Creates Boolean circuits from ANSI-C code optimized for secure computation. | [ShallowCC](http://www.seceng.informatik.tu-darmstadt.de/assets/buescher/ShallowCC16.pdf).
