@@ -68,7 +68,7 @@ Here I tried to reference the most recent article found on specific software sin
 - [SCALE-MAMBA](https://homes.esat.kuleuven.be/~nsmart/SCALE/) - General MPC with secret sharing; secure against various adversaries including malicious with a dishonest majority. Software closer to a production system. | documentation: [link](https://homes.esat.kuleuven.be/~nsmart/SCALE/Documentation.pdf).
 - [Sharemind](https://sharemind.cyber.ee/) - 2PC or 3PC with secret sharing; secure against semi-honest adversaries. | [Cyber'13](https://cyber.ee/research/theses/roman_jagomagis_msc.pdf).
 - [Tf-encrypted](https://github.com/mortendahl/tf-encrypted/) - 3PC with secret sharing; secure against semi-honest adversaries; focused on TensorFlow-based applications.
-- [CrypTen](https://github.com/facebookresearch/CrypTen) - MPC with SPDZ. | [Damgard et al. 2012](https://eprint.iacr.org/2011/535.pdf) and [Beaver 1991](https://link.springer.com/chapter/10.1007/3-540-46766-1_34)
+- [CrypTen](https://github.com/facebookresearch/CrypTen) - MPC with SPDZ. Focused on Pytorch-based applications. | [Damgard et al. 2012](https://eprint.iacr.org/2011/535.pdf) and [Beaver 1991](https://link.springer.com/chapter/10.1007/3-540-46766-1_34)
 - [SPDZ-2](https://github.com/bristolcrypto/SPDZ-2) - Multiparty computation with SPDZ, MASCOT, and Overdrive offline phases 
 
 ### Primitives
