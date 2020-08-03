@@ -11,8 +11,8 @@ Ensure your pull request adheres to the following guidelines:
 - Add the link: `- [Project-name](http://example.com/) - A short description ends with a period.`
   - Keep descriptions concise, maximum number of characters is 350.
   - Every project name has to start with a capital letter.
-  - Make sure the project is open source or it can be accessed by anyone. If the resource is a book then I believe it is OK
-  for that to be behind a paywall to reward the authors for their hard work.
+- Make sure the software projects is open source or it can be accessed by everyone. If the resource is a book then I believe sometimes
+  it is OK for that to be behind a paywall.
 - When adding new things to the various categories, please ensure that
 alphabetization (ex. CSCE 48 should be listed after CS 240) is maintained. This
 makes it easier for viewers to find what they are looking for.
