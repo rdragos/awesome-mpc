@@ -86,6 +86,7 @@ Here I tried to reference the most recent article found on specific software sin
 - [Geppetri](https://github.com/meilof/geppetri) - Verifiable 3PC. | [2017/013](https://eprint.iacr.org/2017/013).
 - [MPECDSA](https://gitlab.com/neucrypt/mpecdsa) - Threshold multiparty ECDSA from ECDSA assumptions. | [S&P'19](https://eprint.iacr.org/2019/523.pdf).
 - [ORAM (Obliv-C)](http://oblivc.org/sqoram/) - Oblivous RAM. | [S&P'16](http://oblivc.org/docs/sqoram.pdf).
+- [Prio](https://github.com/mozilla/libprio) - Private aggregation with SNIPs (secret-shared non-interactive proofs). | [NSDI'17](https://crypto.stanford.edu/prio/paper.pdf).
 - [PSI](https://github.com/encryptogroup/PSI) - Private Set Intersection. | [2014/447](https://eprint.iacr.org/2014/447).
 
 ### Tools
