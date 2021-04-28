@@ -100,6 +100,7 @@ Here I tried to reference the most recent article found on specific software sin
 
 ### Tools
 - [CBMC-GC](https://gitlab.com/securityengineering/CBMC-GC-2) - Creates Boolean circuits from ANSI-C code optimized for secure computation. | [ShallowCC](http://www.seceng.informatik.tu-darmstadt.de/assets/buescher/ShallowCC16.pdf).
+- [CipherCompute](https://github.com/Cosmian/CipherCompute) - Create generic MPC programs using [Rust](https://www.rust-lang.org/). Works on top of the [SCALE](https://github.com/KULeuven-COSIC/SCALE-MAMBA) engine. Enterprise software that provides UIs for participants handshaking, computations approval, datasources connections, auditing etc...
 - [Conclave](https://github.com/multiparty/conclave) - Big Data query compiler that combines cleartext processing with Spark and MPC protocols. | [EuroSys19](https://arxiv.org/abs/1902.06288).
 - [HyCC](https://gitlab.com/securityengineering/HyCC) - Optimizes circuits for hybrid MPC from ANSI-C. | [CCS'18](https://thomaschneider.de/papers/BDKKS18.pdf).
 - [MPC-SoK](https://github.com/MPC-SoK/frameworks) - Build environments for many MPC frameworks using Docker containers. | [S&P19](https://marsella.github.io/static/mpcsok.pdf).
