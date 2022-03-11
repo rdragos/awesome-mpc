@@ -75,6 +75,7 @@ Here I tried to reference the most recent article found on specific software sin
 - [Sharemind](https://sharemind.cyber.ee/) - 2PC or 3PC with secret sharing; secure against semi-honest adversaries. | [Cyber'13](https://cyber.ee/research/theses/roman_jagomagis_msc.pdf).
 - [swanky](https://github.com/GaloisInc/swanky) - A suite of rust libraries for secure multi-party computation (currently includes oblivious transfer, garbled circuits, and private set intersection).
 - [Tf-encrypted](https://github.com/mortendahl/tf-encrypted/) - 3PC with secret sharing; secure against semi-honest adversaries; focused on TensorFlow-based applications.
+- [TNO-MPC](https://github.com/TNO-MPC/) - Collection of MPC generic software components, procedures, functionalities, and solutions based on secret sharing and (partially) homomorphic encryption developed in Python and Go. | Blogs and principles: [TNO MPC Lab](https://mpc.tno.nl/).
 
 ### Primitives
 
