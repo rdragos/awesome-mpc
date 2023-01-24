@@ -72,7 +72,6 @@ Here I tried to reference the most recent article found on specific software sin
 - [Obliv-C](http://oblivc.org/) - 2PC with garbled circuits; secure against semi-honest adversaries. | eprint: [2015/1153](http://eprint.iacr.org/2015/1153).
 - [Obliv-Java](https://github.com/Calctopia-OpenSource/jdk10u) - Faithful reimplementation of Java using Obliv-C. | eprint: [2017/878](https://eprint.iacr.org/2017/878)
 - [Rosetta](https://github.com/LatticeX-Foundation/Rosetta/) - 3PC with secret sharing; secure against semi-honest adversaries; focused on reusing the APIs of TensorFlow and allowing to transfer traditional TensorFlow codes into a privacy-preserving manner with minimal changes.
-- [SCALE-MAMBA](https://homes.esat.kuleuven.be/~nsmart/SCALE/) - General MPC with secret sharing; secure against various adversaries including malicious with a dishonest majority. Software closer to a production system. | documentation: [link](https://homes.esat.kuleuven.be/~nsmart/SCALE/Documentation.pdf).
 - [Sharemind](https://sharemind.cyber.ee/) - 2PC or 3PC with secret sharing; secure against semi-honest adversaries. | [Cyber'13](https://cyber.ee/research/theses/roman_jagomagis_msc.pdf).
 - [swanky](https://github.com/GaloisInc/swanky) - A suite of rust libraries for secure multi-party computation (currently includes oblivious transfer, garbled circuits, and private set intersection).
 - [TF Encrypted](https://github.com/mortendahl/tf-encrypted/) - 3PC with secret sharing; secure against semi-honest adversaries; focused on TensorFlow-based applications.
@@ -118,6 +117,7 @@ Here I tried to reference the most recent article found on specific software sin
 - [FairPlayMP](https://github.com/FaiplayMP/FairplayMP) - GMW based multi-party protocol secure against semi-honest adversaries | [CCS'08](http://www.cs.huji.ac.il/project/Fairplay/FairplayMP/FairplayMP.pdf).
 - [Frigate](https://bitbucket.org/bmood/frigaterelease) - C-style compiler for optimizing boolean circuits.  | [Euro S&P'16](https://www.cise.ufl.edu/~traynor/papers/mood-eurosp16.pdf).
 - [Myst](https://github.com/OpenCryptoProject/Myst) - Secure Multiparty Key Generation, Signature and Decryption JavaCard applet and host application | [CCS'17](https://acmccs.github.io/papers/p1583-mavroudisA.pdf).
+- [SCALE-MAMBA](https://homes.esat.kuleuven.be/~nsmart/SCALE/) - General MPC with secret sharing; secure against various adversaries including malicious with a dishonest majority. Software closer to a production system. | documentation: [link](https://homes.esat.kuleuven.be/~nsmart/SCALE/Documentation.pdf).
 - [SDA](https://github.com/snipsco/sda) - Secure distributed aggregation of high-dimensional vectors | [2017/643](https://eprint.iacr.org/2017/643).
 - [SPDZ](https://www.cs.bris.ac.uk/Research/CryptographySecurity/SPDZ/) - General MPC with secret sharing; secure against malicious adversaries | eprint: [2017/1230](https://eprint.iacr.org/2017/1230).
 - [SPDZ-Yao](https://github.com/mkskeller/SPDZ-Yao) - 2PC with garbled circuits; high-level language similar to SPDZ; secure against semi-honest adversaries.
