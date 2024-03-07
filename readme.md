@@ -39,7 +39,7 @@ Please feel free to do a pull request with any MPC software or resource you know
 
 ### Tutorials
 
-- [Getting Started with MPC](http://u.cs.biu.ac.il/~lindell/MPC-resources.html) - Light compilation of basic resources for getting started in MPC study and research.
+- [Getting Started with MPC](https://yehudalindell.com/resources-for-getting-started-with-mpc/) - Light compilation of basic resources for getting started in MPC study and research.
 - [How To Simulate It](https://eprint.iacr.org/2016/046) - A Tutorial on the Simulation Proof Technique.
 - [OSU Bibliography](https://web.engr.oregonstate.edu/~rosulekm/scbib/index.php?n=Main.GettingStarted) - An Annotated Bibliography of Practical Secure Computation.
 - [TinySMPC (tutorial)](https://github.com/kennysong/tinysmpc) – A tiny, educational, Pythonic library for SMPC. The tutorial notebook runs in your browser.
