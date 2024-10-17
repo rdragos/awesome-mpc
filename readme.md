@@ -77,7 +77,7 @@ Here I tried to reference the most recent article found on specific software sin
 - [MOTION](https://github.com/encryptogroup/MOTION) - Mixed-Protocol MPC framework supporting full-threshold boolean and arithmetic GMW and BMR; secure against semi-honest adversaries. | eprint: [2020/1137](https://eprint.iacr.org/2020/1137).
 - [MP-SPDZ](https://github.com/data61/MP-SPDZ) - MPC with garbled circuits or secret sharing; secure against malicious or semi-honest adversaries with dishonest or honest majority. | [documentation](https://mp-spdz.readthedocs.io/en/latest/) | eprint: [2020/512](https://eprint.iacr.org/2020/521)
 - [MPC Framework](https://github.com/voltrevo/mpc-framework) - TypeScript framework for doing MPC with multiple techniques for generating circuits and MPC backends. In particular, it supports [summon](https://github.com/voltrevo/summon) circuits and [emp-wasm-backend](https://github.com/voltrevo/emp-wasm-backend) for malicious secure 2PC.
-- [mpz](https://github.com/privacy-scaling-explorations/mpz) - A collection of multi-party computation libraries written in Rust 🦀. Strives to provide safe, performant, modular and portable MPC software with a focus on usability.
+- [MPZ](https://github.com/privacy-scaling-explorations/mpz) - A collection of multi-party computation libraries written in Rust 🦀. Strives to provide safe, performant, modular and portable MPC software with a focus on usability.
 - [MPyC](https://www.win.tue.nl/%7Eberry/mpyc/) - BGW honest majority multi-party protocol; secure against semi-honest adversaries. | [TPMPC'18](https://www.win.tue.nl/~berry/mpyc/TPMPC2018.pdf).
 - [Obliv-C](http://oblivc.org/) - 2PC with garbled circuits; secure against semi-honest adversaries. | eprint: [2015/1153](http://eprint.iacr.org/2015/1153).
 - [Obliv-Java](https://github.com/Calctopia-OpenSource/jdk10u) - Faithful reimplementation of Java using Obliv-C. | eprint: [2017/878](https://eprint.iacr.org/2017/878)
@@ -117,13 +117,13 @@ Here I tried to reference the most recent article found on specific software sin
 ### Tools
 - [CBMC-GC](https://gitlab.com/securityengineering/CBMC-GC-2) - Creates Boolean circuits from ANSI-C code optimized for secure computation. | [ShallowCC](https://web.archive.org/web/20180205110742/http://www.seceng.informatik.tu-darmstadt.de/assets/buescher/ShallowCC16.pdf).
 - [CipherCompute](https://github.com/Cosmian/CipherCompute) - Create generic MPC programs using [Rust](https://www.rust-lang.org/). Works on top of the [SCALE](https://github.com/KULeuven-COSIC/SCALE-MAMBA) engine. Enterprise software that provides UIs for participants handshaking, computations approval, datasources connections, auditing etc...
-- [circom-2-arithc](https://github.com/namnc/circom-2-arithc/) - Compiles bristol circuits for MPC from circom code.
+- [Circom 2 Arithc](https://github.com/namnc/circom-2-arithc/) - Compiles bristol circuits for MPC from circom code.
 - [Conclave](https://github.com/multiparty/conclave) - Big Data query compiler that combines cleartext processing with Spark and MPC protocols. | [EuroSys19](https://arxiv.org/abs/1902.06288).
 - [Garble-Lang](https://github.com/sine-fdn/garble-lang) - Programming language for MPC with Garbled Circuits. Garble is statically typed, low-level, purely functional and uses a syntax heavily inspired by Rust.
 - [HyCC](https://gitlab.com/securityengineering/HyCC) - Optimizes circuits for hybrid MPC from ANSI-C. | [CCS'18](https://thomaschneider.de/papers/BDKKS18.pdf).
 - [MPC-SoK](https://github.com/MPC-SoK/frameworks) - Build environments for many MPC frameworks using Docker containers. | [S&P19](https://marsella.github.io/static/mpcsok.pdf).
 - [Private Benchmarking](https://github.com/microsoft/private-benchmarking) - Provides an End to End platform to perform Private Benchmarking using MPC and GPU-based Confidential Computing on LLMs/CNNs/Vision Models using [EzPC](https://github.com/mpc-msri/EzPC) framework. | [eprint](https://arxiv.org/abs/2403.00393).
-- [summon](https://github.com/voltrevo/summon) - A TypeScript-like language for compiling bristol circuits for MPC. Also available as an [npm module](https://www.npmjs.com/package/summon-ts).
+- [Summon](https://github.com/voltrevo/summon) - A TypeScript-like language for compiling bristol circuits for MPC. Also available as an [npm module](https://www.npmjs.com/package/summon-ts).
 - [Tiny-Garble](https://github.com/esonghori/TinyGarble) -  Logic Synthesis and Sequential Descriptions for Yao's Garbled Circuits. | [S&P'15](http://aceslab.org/sites/default/files/TinyGarble.pdf).
 - [UC Compiler](https://github.com/encryptogroup/UC) - Valiant's Universal Circuit Compiler. | [2016/093](https://eprint.iacr.org/2016/093).
 
