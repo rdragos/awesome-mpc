@@ -106,6 +106,7 @@ Here I tried to reference the most recent article found on specific software sin
 
 - [BaRK-OPRF](https://github.com/osu-crypto/BaRK-OPRF) - Private Set Intersection. | [2016/799](https://eprint.iacr.org/2016/799).
 - [Blockchain-Crypto-MPC](https://github.com/unbound-tech/blockchain-crypto-mpc) - Multiparty ECDSA signing in the cryptocurrency setting, includes an optimized GC library, OT, and more. | [CCS'18](https://eprint.iacr.org/2018/987).
+- [Fireblocks MPC](https://github.com/fireblocks/mpc-lib/) - Multiparty ECDSA and EdDSA | eprint [2020/492](https://eprint.iacr.org/2020/492).
 - [LibPSI](https://github.com/osu-crypto/libPSI) - Various protocols for performing private set intersection.
 - [Linreg](https://github.com/schoppmp/linreg-mpc/) - Privacy preserving linear regression. | [2016/892](https://eprint.iacr.org/2016/892).
 - [Geppetri](https://github.com/meilof/geppetri) - Verifiable 3PC. | [2017/013](https://eprint.iacr.org/2017/013).
