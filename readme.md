@@ -49,6 +49,8 @@ Please feel free to do a pull request with any MPC software or resource you know
 ## Misc
 
 - [ePrint papers](https://guutboy.github.io) - Frequently updated list of secure computation papers appearing on IACR eprint.
+- [MPC deployments](https://mpc.cs.berkeley.edu) - A hub for real-world MPC deployments maintained by UC
+Berkeley EECS Security Group.
 
 ## Software
 
