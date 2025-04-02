@@ -91,7 +91,7 @@ Here I tried to reference the most recent article found on specific software sin
 - [Tandem](https://github.com/sine-fdn/tandem) - 2PC with garbled circuits written in Rust; secure against malicious adversaries.
 - [TF Encrypted](https://github.com/mortendahl/tf-encrypted/) - 3PC with secret sharing; secure against semi-honest adversaries; focused on TensorFlow-based applications.
 - [TNO-MPC](https://github.com/TNO-MPC/) - Collection of MPC generic software components, procedures, functionalities, and solutions based on secret sharing and (partially) homomorphic encryption developed in Python and Go. | Blogs and principles: [TNO MPC Lab](https://mpc.tno.nl/).
-
+- [JAVASCRIPT-MPC](https://github.com/sjehan/JavascriptMPC) - A golang MPC framework that can compile Javascript files into garbled circuits
 ### Primitives
 
 - [aes-prng](https://github.com/tf-encrypted/aes-prng) - Rust pseudo-random number generator based on AES.
