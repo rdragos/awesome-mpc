@@ -148,7 +148,7 @@ Here I tried to reference the most recent article found on specific software sin
 - [Semi-honest BMR](https://github.com/cryptobiu/Semi-Honest-BMR) - BMR protocol secure against semi-honest adversaries | [2016/1066](https://eprint.iacr.org/2016/1066).
 - [Tasty](https://github.com/encryptogroup/tasty) - 2PC with garbled circuits and homomorphic encryption | [2010/365](https://eprint.iacr.org/2010/365).
 - [TinyLEGO](https://github.com/AarhusCrypto/TinyLEGO) - 2PC with garbled circuits; secure against malicious adversaries | eprint: [2015/309](http://eprint.iacr.org/2015/309).
-- [VIFF](http://viff.dk/) - 3+PC with secret sharing; secure against semi-honest adveraries.
+- [VIFF](https://github.com/mgeisler/viff) - 3+PC with secret sharing; secure against semi-honest adveraries | [PhD Dissertation](https://pure.au.dk/portal/da/publications/cryptographic-protocols-theory-and-implementation/).
 - [Wysteria](https://bitbucket.org/aseemr/wysteria/wiki/Home) - Multparty computation with GMW, written in a functional PL; secure against semi-honest adversaries | [S&P'14](http://www.cs.umd.edu/~aseem/wysteria.pdf).
 
 
