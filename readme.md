@@ -95,6 +95,7 @@ Here I tried to reference the most recent article found on specific software sin
 - [TF Encrypted](https://github.com/mortendahl/tf-encrypted/) - 3PC with secret sharing; secure against semi-honest adversaries; focused on TensorFlow-based applications.
 - [TNO-MPC](https://github.com/TNO-MPC/) - Collection of MPC generic software components, procedures, functionalities, and solutions based on secret sharing and (partially) homomorphic encryption developed in Python and Go. | Blogs and principles: [TNO MPC Lab](https://mpc.tno.nl/).
 - [Velox](https://github.com/akhilsb/Velox-MPC) - Post-Quantum asynchronous MPC implemented in Rust. Offers Fairness against $t<\frac{n}{3}$ malicious parties. Scales to $n=100$ parties in a geo-distributed network.  | eprint: [2025/1630](https://eprint.iacr.org/2025/1630).
+- [Stoffel](https://stoffelmpc.com) - A framework for robust MPC protocols
 
 ### Primitives
 
