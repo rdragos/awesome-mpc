@@ -64,35 +64,21 @@ Here I tried to reference the most recent article found on specific software sin
 
 ### Frameworks
 
-- [ABY](https://github.com/encryptogroup/ABY) - 2PC with secret sharing and garbled circuits; secure against semi-honest adversaries. | [NDSS'15](http://encrypto.de/papers/DSZ15.pdf).
 - [ABY3](https://github.com/ladnir/aby3) - 3PC with secret sharing for privacy preserving machine learning and database joins (PSI, Union, etc.); secure against semi-honest adversaries. | [CCS'18](https://eprint.iacr.org/2018/403.pdf), [2019/518](https://eprint.iacr.org/2019/518.pdf).
-- [BatchDualEx](https://github.com/osu-crypto/batchDualEx) - 2PC with garbled circuits; secure against malicious adversaries. | eprint: [2016/632](https://eprint.iacr.org/2016/632).
 - [Carbyne Stack](https://carbynestack.io) - MPC cloud platform that combines state-of-the-art MPC with cloud-native technology like Kubernetes, Istio, and Knative to enable MPC deployments at scale.
-- [CrypTen](https://github.com/facebookresearch/CrypTen) - MPC with secret sharing; secure against semi-honest adversary; focused on building PyTorch applications. | documentation: [link](https://crypten.ai/)
 - [EMP-toolkit](https://github.com/emp-toolkit) - 2PC and MPC with garbled circuits; secure against semi-honest adversaries (emp-sh2pc). There are also ones resistant against malicious parties (emp-[ag2pc|m2pc|agmpc]) | eprint: [2017/189](https://eprint.iacr.org/2017/189), [2016/762](https://eprint.iacr.org/2016/762), [2017/030](https://eprint.iacr.org/2017/030).
-- [EzPC](https://github.com/mpc-msri/EzPC) - Offers a suite of tools for secure machine learning using semi-honest MPC protocols. It includes a language for secure machine learning, compilers for TensorFlow/Onnx to various MPC protocols, and frameworks for training and inference on deep neural networks. It provides an end-to-end solution for secure machine learning. | documentation: [link](https://github.com/mpc-msri/EzPC). End-to-End Platform: [link](https://github.com/microsoft/private-benchmarking)
-- [Fancy-Garbling](https://github.com/spaceships/fancy-garbling) - 2PC with arithmetic garbled circuits; secure against semi-honest adversaries. | eprint: [2016/969](https://eprint.iacr.org/2016/969).
 - [FRESCO](http://fresco.readthedocs.io/en/latest/) - MPC supporting TinyTables or SPDZ protocols; secure against semi-honest or malicious adversaries. | [Practice'15](http://practice-project.eu/downloads/publications/D22.1-State-of-the-art-analysis-PU-V1.1.pdf).
-- [HoneyBadgerMPC](https://github.com/initc3/HoneyBadgerMPC) - Robust MPC-based confidentiality layer for blockchains with guaranteed output delivery; secure against up to t < n/3 malicious parties.
 - [HPMPC](https://github.com/chart21/hpmpc/) - HPMPC implements multiple MPC protocols and provides a high-level C++ interface to define functions and use cases. Out of the box, the framework supports computation in the boolean and arithmetic domain, mixed circuits, and fixed point arithmetic. Neural network models can be imported from PyTorch as part of [PIGEON](https://eprint.iacr.org/2024/1371.pdf).
 - [JIFF](https://github.com/multiparty/jiff/) - JavaScript client and server libraries for building web-based applications that employ general purpose MPC; secure against semi-honest adversaries. | documentation: [link](https://multiparty.org/jiff/).
-- [libTMCG](https://github.com/HeikoStamer/libtmcg) - C++ framework with various primitives and tools for implementing multiparty games; secure against semi-honest adversaries. | documentation: [link](https://www.nongnu.org/libtmcg/libTMCG.html/index.html)
-- [Moose](https://github.com/tf-encrypted/moose) - 3PC with secret sharing; secure against semi-honest adversaries; focused on data processing and machine learning.
-- [MOTION](https://github.com/encryptogroup/MOTION) - Mixed-Protocol MPC framework supporting full-threshold boolean and arithmetic GMW and BMR; secure against semi-honest adversaries. | eprint: [2020/1137](https://eprint.iacr.org/2020/1137).
 - [MP-SPDZ](https://github.com/data61/MP-SPDZ) - MPC with garbled circuits or secret sharing; secure against malicious or semi-honest adversaries with dishonest or honest majority. | [documentation](https://mp-spdz.readthedocs.io/en/latest/) | eprint: [2020/512](https://eprint.iacr.org/2020/521)
 - [MPC](https://github.com/markkurossi/mpc) - Go-based secure two-party computation framework combining a garbled-circuit runtime, the MPCL compiler, circuit tooling, OT primitives, and a WIP BMR implementation.
 - [MPC Framework](https://github.com/voltrevo/mpc-framework) - TypeScript framework for doing MPC with multiple techniques for generating circuits and MPC backends. In particular, it supports [summon](https://github.com/voltrevo/summon) circuits and [emp-wasm-backend](https://github.com/voltrevo/emp-wasm-backend) for malicious secure 2PC.
 - [MPZ](https://github.com/privacy-scaling-explorations/mpz) - A collection of multi-party computation libraries written in Rust 🦀. Strives to provide safe, performant, modular and portable MPC software with a focus on usability.
 - [MPyC](https://www.win.tue.nl/%7Eberry/mpyc/) - BGW honest majority multi-party protocol; secure against semi-honest adversaries. | [TPMPC'18](https://www.win.tue.nl/~berry/mpyc/TPMPC2018.pdf).
-- [Obliv-C](http://oblivc.org/) - 2PC with garbled circuits; secure against semi-honest adversaries. | eprint: [2015/1153](http://eprint.iacr.org/2015/1153).
-- [Obliv-Java](https://github.com/Calctopia-OpenSource/jdk10u) - Faithful reimplementation of Java using Obliv-C. | eprint: [2017/878](https://eprint.iacr.org/2017/878)
 - [ORQ](https://github.com/CASP-Systems-BU/orq) - General framework for relational analytics written in C++; includes fast sorting implementations and supports multiple protocols. | [SOSP'25](https://dl.acm.org/doi/10.1145/3731569.3764833)
-- [Rosetta](https://github.com/LatticeX-Foundation/Rosetta/) - 3PC with secret sharing; secure against semi-honest adversaries; focused on reusing the APIs of TensorFlow and allowing to transfer traditional TensorFlow codes into a privacy-preserving manner with minimal changes.
 - [SecretFlow-SPU](https://github.com/secretflow/spu) - A domain-specific compiler and runtime suite, that aims to provide a secure computation service with provable security. SPU compiler uses XLA as its front-end Intermediate Representation (IR) and SPU runtime implements various MPC protocols. | [USENIX ATC'23](https://www.usenix.org/system/files/atc23-ma.pdf).
 - [Sharemind](https://sharemind.cyber.ee/) - 2PC or 3PC with secret sharing; secure against semi-honest adversaries. | [Cyber'13](https://cyber.ee/research/theses/roman_jagomagis_msc.pdf).
 - [swanky](https://github.com/GaloisInc/swanky) - A suite of rust libraries for secure multi-party computation (currently includes oblivious transfer, garbled circuits, and private set intersection).
-- [Tandem](https://github.com/sine-fdn/tandem) - 2PC with garbled circuits written in Rust; secure against malicious adversaries.
-- [TF Encrypted](https://github.com/mortendahl/tf-encrypted/) - 3PC with secret sharing; secure against semi-honest adversaries; focused on TensorFlow-based applications.
 - [TNO-MPC](https://github.com/TNO-MPC/) - Collection of MPC generic software components, procedures, functionalities, and solutions based on secret sharing and (partially) homomorphic encryption developed in Python and Go. | Blogs and principles: [TNO MPC Lab](https://mpc.tno.nl/).
 - [Velox](https://github.com/akhilsb/Velox-MPC) - Post-Quantum asynchronous MPC implemented in Rust. Offers Fairness against $t<\frac{n}{3}$ malicious parties. Scales to $n=100$ parties in a geo-distributed network.  | eprint: [2025/1630](https://eprint.iacr.org/2025/1630).
 
@@ -137,16 +123,32 @@ Here I tried to reference the most recent article found on specific software sin
 
 ### Retired software
 
+The software in this category has either been declared retired by the creators (including setting the repository to archived) or has not added a commit in more than two years. If the maintained repository has moved elsewhere, please file a pull request with an updated link.
+
+- [ABY](https://github.com/encryptogroup/ABY) - 2PC with secret sharing and garbled circuits; secure against semi-honest adversaries. | [NDSS'15](http://encrypto.de/papers/DSZ15.pdf).
+- [BatchDualEx](https://github.com/osu-crypto/batchDualEx) - 2PC with garbled circuits; secure against malicious adversaries. | eprint: [2016/632](https://eprint.iacr.org/2016/632).
+- [CrypTen](https://github.com/facebookresearch/CrypTen) - MPC with secret sharing; secure against semi-honest adversary; focused on building PyTorch applications. | documentation: [link](https://crypten.ai/)
 - [Duplo](https://github.com/AarhusCrypto/DUPLO) - 2PC with garbled circuits; secure against malicious adversaries.
+- [EzPC](https://github.com/mpc-msri/EzPC) - Offers a suite of tools for secure machine learning using semi-honest MPC protocols. It includes a language for secure machine learning, compilers for TensorFlow/Onnx to various MPC protocols, and frameworks for training and inference on deep neural networks. It provides an end-to-end solution for secure machine learning. | documentation: [link](https://github.com/mpc-msri/EzPC). End-to-End Platform: [link](https://github.com/microsoft/private-benchmarking)
+- [Fancy-Garbling](https://github.com/spaceships/fancy-garbling) - 2PC with arithmetic garbled circuits; secure against semi-honest adversaries. | eprint: [2016/969](https://eprint.iacr.org/2016/969).
 - [FairPlayMP](https://github.com/FaiplayMP/FairplayMP) - GMW based multi-party protocol secure against semi-honest adversaries | [CCS'08](http://www.cs.huji.ac.il/project/Fairplay/FairplayMP/FairplayMP.pdf).
 - [Frigate](https://bitbucket.org/bmood/frigaterelease) - C-style compiler for optimizing boolean circuits.  | [Euro S&P'16](https://www.cise.ufl.edu/~traynor/papers/mood-eurosp16.pdf).
+- [HoneyBadgerMPC](https://github.com/initc3/HoneyBadgerMPC) - Robust MPC-based confidentiality layer for blockchains with guaranteed output delivery; secure against up to t < n/3 malicious parties.
+- [libTMCG](https://github.com/HeikoStamer/libtmcg) - C++ framework with various primitives and tools for implementing multiparty games; secure against semi-honest adversaries. | documentation: [link](https://www.nongnu.org/libtmcg/libTMCG.html/index.html)
+- [Moose](https://github.com/tf-encrypted/moose) - 3PC with secret sharing; secure against semi-honest adversaries; focused on data processing and machine learning.
+- [MOTION](https://github.com/encryptogroup/MOTION) - Mixed-Protocol MPC framework supporting full-threshold boolean and arithmetic GMW and BMR; secure against semi-honest adversaries. | eprint: [2020/1137](https://eprint.iacr.org/2020/1137).
 - [Myst](https://github.com/OpenCryptoProject/Myst) - Secure Multiparty Key Generation, Signature and Decryption JavaCard applet and host application | [CCS'17](https://acmccs.github.io/papers/p1583-mavroudisA.pdf).
+- [Obliv-C](http://oblivc.org/) - 2PC with garbled circuits; secure against semi-honest adversaries. | eprint: [2015/1153](http://eprint.iacr.org/2015/1153).
+- [Obliv-Java](https://github.com/Calctopia-OpenSource/jdk10u) - Faithful reimplementation of Java using Obliv-C. | eprint: [2017/878](https://eprint.iacr.org/2017/878)
+- [Rosetta](https://github.com/LatticeX-Foundation/Rosetta/) - 3PC with secret sharing; secure against semi-honest adversaries; focused on reusing the APIs of TensorFlow and allowing to transfer traditional TensorFlow codes into a privacy-preserving manner with minimal changes.
 - [SCALE-MAMBA](https://nigelsmart.github.io/SCALE/) - General MPC with secret sharing; secure against various adversaries including malicious with a dishonest majority. Software closer to a production system. | documentation: [link](https://nigelsmart.github.io/SCALE/Documentation.pdf).
 - [SDA](https://github.com/snipsco/sda) - Secure distributed aggregation of high-dimensional vectors | [2017/643](https://eprint.iacr.org/2017/643).
 - [SPDZ](https://www.cs.bris.ac.uk/Research/CryptographySecurity/SPDZ/) - General MPC with secret sharing; secure against malicious adversaries | eprint: [2017/1230](https://eprint.iacr.org/2017/1230).
 - [SPDZ-Yao](https://github.com/mkskeller/SPDZ-Yao) - 2PC with garbled circuits; high-level language similar to SPDZ; secure against semi-honest adversaries.
 - [Semi-honest BMR](https://github.com/cryptobiu/Semi-Honest-BMR) - BMR protocol secure against semi-honest adversaries | [2016/1066](https://eprint.iacr.org/2016/1066).
+- [Tandem](https://github.com/sine-fdn/tandem) - 2PC with garbled circuits written in Rust; secure against malicious adversaries.
 - [Tasty](https://github.com/encryptogroup/tasty) - 2PC with garbled circuits and homomorphic encryption | [2010/365](https://eprint.iacr.org/2010/365).
+- [TF Encrypted](https://github.com/mortendahl/tf-encrypted/) - 3PC with secret sharing; secure against semi-honest adversaries; focused on TensorFlow-based applications.
 - [TinyLEGO](https://github.com/AarhusCrypto/TinyLEGO) - 2PC with garbled circuits; secure against malicious adversaries | eprint: [2015/309](http://eprint.iacr.org/2015/309).
 - [VIFF](http://viff.dk/) - 3+PC with secret sharing; secure against semi-honest adveraries.
 - [Wysteria](https://bitbucket.org/aseemr/wysteria/wiki/Home) - Multparty computation with GMW, written in a functional PL; secure against semi-honest adversaries | [S&P'14](http://www.cs.umd.edu/~aseem/wysteria.pdf).
