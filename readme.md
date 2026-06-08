@@ -26,7 +26,7 @@ Please feel free to do a pull request with any MPC software or resource you know
 
 ### Books
 
-- [A Pragmatic Introduction to Secure Multi-Party Computation](https://securecomputation.org) - A broad introduction to the field of secure multi-party computation, covering both the fundamental constructions and many of the recent improvements. The book emphazises the intuition and ideas behind the protocols rather than rigorous proofs.
+- [A Pragmatic Introduction to Secure Multi-Party Computation](https://securecomputation.org) - A broad introduction to the field of secure multi-party computation, covering both the fundamental constructions and many of the recent improvements. The book emphasizes the intuition and ideas behind the protocols rather than rigorous proofs.
 - [Applications of Secure Multiparty Computation](http://ebooks.iospress.nl/volume/applications-of-secure-multiparty-computation) - Collection of MPC protocols for several real-world tasks such as statistics.
 - [Efficient Secure Two-Party Protocols](https://www.springer.com/us/book/9783642143021) - Comprehensive study of efficient protocols and techniques for secure two-party computation – both general constructions that can be used to securely compute any functionality, and protocols for specific problems of interest.
 - [Secure Multiparty Computation and Secret Sharing](http://www.cambridge.org/dk/academic/subjects/computer-science/cryptography-cryptology-and-coding/secure-multiparty-computation-and-secret-sharing?format=HB) - Comprehensive treatment of unconditionally secure techniques for multiparty computation (MPC) and secret sharing.
@@ -35,7 +35,7 @@ Please feel free to do a pull request with any MPC software or resource you know
 
 - [Cryptographic Computing Course](http://orlandi.dk/crycom) - Course on MPC, Homomorphic Encryption and related topics given by Claudio Orlandi at Aarhus University.
 - [FHE-MPC Advanced Grad Course](https://nigelsmart.github.io/FHE-MPC/) - 'Informal grad course' in FHE and MPC.
-- [Secure Computation](https://www.csa.iisc.ac.in/~arpita/SecureComputation15.html) - Secure Computation course offered by Indian Institute of Science covering secret sharing schemes, oblivious transfer to impossiblity results and zero-knowledge proofs.
+- [Secure Computation](https://www.csa.iisc.ac.in/~arpita/SecureComputation15.html) - Secure Computation course offered by Indian Institute of Science covering secret sharing schemes, oblivious transfer to impossibility results and zero-knowledge proofs.
 - [Secure Multi-Party Computation at Scale](https://piazza.com/bu/fall2017/cs591v1/info) - Boston University course that covers mathematical and algorithmic foundations of MPC, with an additional focus on deployment of state-of-the-art MPC technologies.
 
 ### Tutorials
@@ -104,7 +104,7 @@ Here I tried to reference the most recent article found on specific software sin
 - [Linreg](https://github.com/schoppmp/linreg-mpc/) - Privacy preserving linear regression. | [2016/892](https://eprint.iacr.org/2016/892).
 - [Geppetri](https://github.com/meilof/geppetri) - Verifiable 3PC. | [2017/013](https://eprint.iacr.org/2017/013).
 - [MPECDSA](https://gitlab.com/neucrypt/mpecdsa) - Threshold multiparty ECDSA from ECDSA assumptions. | [S&P'19](https://eprint.iacr.org/2019/523.pdf).
-- [ORAM (Obliv-C)](http://oblivc.org/sqoram/) - Oblivous RAM. | [S&P'16](http://oblivc.org/docs/sqoram.pdf).
+- [ORAM (Obliv-C)](http://oblivc.org/sqoram/) - Oblivious RAM. | [S&P'16](http://oblivc.org/docs/sqoram.pdf).
 - [Prio](https://github.com/mozilla/libprio) - Private aggregation with SNIPs (secret-shared non-interactive proofs). | [NSDI'17](https://crypto.stanford.edu/prio/paper.pdf).
 - [PSI](https://github.com/encryptogroup/PSI) - Private Set Intersection. | [2014/447](https://eprint.iacr.org/2014/447).
 - [ROOM](https://github.com/schoppmp/room-framework) - Read-Only Oblivious Maps and applications to secure machine learning on sparse data. | [CCS'19](https://eprint.iacr.org/2019/281.pdf).
@@ -151,8 +151,8 @@ The software in this category has either been declared retired by the creators (
 - [Tasty](https://github.com/encryptogroup/tasty) - 2PC with garbled circuits and homomorphic encryption | [2010/365](https://eprint.iacr.org/2010/365).
 - [TF Encrypted](https://github.com/mortendahl/tf-encrypted/) - 3PC with secret sharing; secure against semi-honest adversaries; focused on TensorFlow-based applications.
 - [TinyLEGO](https://github.com/AarhusCrypto/TinyLEGO) - 2PC with garbled circuits; secure against malicious adversaries | eprint: [2015/309](http://eprint.iacr.org/2015/309).
-- [VIFF](https://github.com/mgeisler/viff) - 3+PC with secret sharing; secure against semi-honest adveraries | [PhD Dissertation](https://pure.au.dk/portal/da/publications/cryptographic-protocols-theory-and-implementation/).
-- [Wysteria](https://bitbucket.org/aseemr/wysteria/wiki/Home) - Multparty computation with GMW, written in a functional PL; secure against semi-honest adversaries | [S&P'14](http://www.cs.umd.edu/~aseem/wysteria.pdf).
+- [VIFF](https://github.com/mgeisler/viff) - 3+PC with secret sharing; secure against semi-honest adversaries | [PhD Dissertation](https://pure.au.dk/portal/da/publications/cryptographic-protocols-theory-and-implementation/).
+- [Wysteria](https://bitbucket.org/aseemr/wysteria/wiki/Home) - Multiparty computation with GMW, written in a functional PL; secure against semi-honest adversaries | [S&P'14](http://www.cs.umd.edu/~aseem/wysteria.pdf).
 
 
 ## Workshops
