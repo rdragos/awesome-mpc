@@ -82,7 +82,7 @@ Here I tried to reference the most recent article found on specific software sin
 - [Stoffel](https://github.com/Stoffel-Labs/stoffel) - A framework for robust MPC protocols which includes a custom compiler, VM runtime, SDKs targeted at developers with minimal MPC knowledge. 
 - [TNO-MPC](https://github.com/TNO-MPC/) - Collection of MPC generic software components, procedures, functionalities, and solutions based on secret sharing and (partially) homomorphic encryption developed in Python and Go. | Blogs and principles: [TNO MPC Lab](https://mpc.tno.nl/).
 - [Velox](https://github.com/akhilsb/Velox-MPC) - Post-Quantum asynchronous MPC implemented in Rust. Offers Fairness against $t<\frac{n}{3}$ malicious parties. Scales to $n=100$ parties in a geo-distributed network. | eprint: [2025/1630](https://eprint.iacr.org/2025/1630).
-- [Zama KMS](https://github.com/zama-ai/kms/) - Zama's MPC-based key management system for threshold key generation and threshold decryption for FHE. | [WAHC'23](https://eprint.iacr.org/2023/815),[Spec](https://github.com/zama-ai/threshold-fhe/blob/main/docs/CryptographicDocumentation.pdf) 
+- [Zama KMS](https://github.com/zama-ai/kms/) - Zama's MPC-based key management system for threshold key generation and threshold decryption for FHE. | [WAHC'23](https://eprint.iacr.org/2023/815), [Spec](https://github.com/zama-ai/threshold-fhe/blob/main/docs/CryptographicDocumentation.pdf) 
 
 ### Primitives
 
@@ -159,10 +159,11 @@ The software in this category has either been declared retired by the creators (
 ## Workshops
 
 - [IIT Bombay MPC school](https://www.cse.iitb.ac.in/%7Emp/crypto/mpc2017/) - Covers basic and advanced topics related to the theory of MPC aimed at CS students and researchers interested in cryptography.
+- [RWMPC](https://www.mpcalliance.org/) - Real World MPC (RWMPC) Workshop. Started in 2025 and is co-located with the [Real World Crypto (RWC)](https://rwc.iacr.org/) conference.
 - [Securing Computation](https://simons.berkeley.edu/workshops/crypto2015-1) - Conducted at Simons institute for Theory of Computing.
 - [The 1st BIU Winter School](https://web.archive.org/web/20230604031948/http://cyber.biu.ac.il/event/the-1st-biu-winter-school/) - Introductory lectures for basic secure computation constructions.
 - [The 5th BIU Winter School](https://web.archive.org/web/20230601080023/https://cyber.biu.ac.il/event/the-5th-biu-winter-school/) - Tutorials and recent advances in secure computation delivered in video format.
-- [TPMPC](http://www.multipartycomputation.com/) - Yearly workshop that started in Aarhus 2012. It has now become one of the biggest workshops for MPC people.
+- [TPMPC](http://www.multipartycomputation.com/) - Yearly workshop on theory and practice of MPC that started in Aarhus 2012. It has now become one of the biggest workshops for MPC people.
 
 ## Contribute
 
