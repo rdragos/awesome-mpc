@@ -73,6 +73,7 @@ Here I tried to reference the most recent article found on specific software sin
 - [MP-SPDZ](https://github.com/data61/MP-SPDZ) - MPC with garbled circuits or secret sharing; secure against malicious or semi-honest adversaries with dishonest or honest majority. | [documentation](https://mp-spdz.readthedocs.io/en/latest/) | eprint: [2020/512](https://eprint.iacr.org/2020/521)
 - [MPC](https://github.com/markkurossi/mpc) - Go-based secure two-party computation framework combining a garbled-circuit runtime, the MPCL compiler, circuit tooling, OT primitives, and a WIP BMR implementation.
 - [MPC Framework](https://github.com/voltrevo/mpc-framework) - TypeScript framework for doing MPC with multiple techniques for generating circuits and MPC backends. In particular, it supports [summon](https://github.com/voltrevo/summon) circuits and [emp-wasm-backend](https://github.com/voltrevo/emp-wasm-backend) for malicious secure 2PC.
+- [mpcium](https://github.com/fystack/mpcium) - MPC wallet infrastructure in Go implementing threshold ECDSA (secp256k1) and EdDSA (Ed25519) for distributed key generation and signing; supports Bitcoin, Ethereum, Solana, Cardano, and other blockchain networks.
 - [MPZ](https://github.com/privacy-scaling-explorations/mpz) - A collection of multi-party computation libraries written in Rust 🦀. Strives to provide safe, performant, modular and portable MPC software with a focus on usability.
 - [MPyC](https://www.win.tue.nl/%7Eberry/mpyc/) - BGW honest majority multi-party protocol; secure against semi-honest adversaries. | [TPMPC'18](https://www.win.tue.nl/~berry/mpyc/TPMPC2018.pdf).
 - [ORQ](https://github.com/CASP-Systems-BU/orq) - General framework for relational analytics written in C++; includes fast sorting implementations and supports multiple protocols. | [SOSP'25](https://dl.acm.org/doi/10.1145/3731569.3764833)
@@ -109,6 +110,7 @@ Here I tried to reference the most recent article found on specific software sin
 - [Prio](https://github.com/mozilla/libprio) - Private aggregation with SNIPs (secret-shared non-interactive proofs). | [NSDI'17](https://crypto.stanford.edu/prio/paper.pdf).
 - [PSI](https://github.com/encryptogroup/PSI) - Private Set Intersection. | [2014/447](https://eprint.iacr.org/2014/447).
 - [ROOM](https://github.com/schoppmp/room-framework) - Read-Only Oblivious Maps and applications to secure machine learning on sparse data. | [CCS'19](https://eprint.iacr.org/2019/281.pdf).
+- [tss-lib](https://github.com/bnb-chain/tss-lib) - Threshold ECDSA and EdDSA implementation in Go for distributed key generation, signing, and resharing without a trusted dealer. | [CCS'18](https://eprint.iacr.org/2018/987).
 
 ### Tools
 - [CBMC-GC](https://gitlab.com/securityengineering/CBMC-GC-2) - Creates Boolean circuits from ANSI-C code optimized for secure computation. | [ShallowCC](https://web.archive.org/web/20180205110742/http://www.seceng.informatik.tu-darmstadt.de/assets/buescher/ShallowCC16.pdf).
