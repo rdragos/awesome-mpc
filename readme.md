@@ -61,6 +61,7 @@ Here I tried to reference the most recent article found on specific software sin
 - [2PC is for Lovers](https://voltrevo.github.io/2pc-is-for-lovers/) - Allows two people to find out if they are secretly in love with each other using malicious secure 2PC of a single AND gate.
 - [MPC Hello](https://voltrevo.github.io/mpc-hello/) - Malicious secure 2PC calculating the larger of two numbers. Also a [template repository](https://github.com/voltrevo/mpc-hello) for building malicious secure 2PC web apps for any circuit.
 - [TLS Notary](https://tlsnotary.org/) - Uses MPC to blindly sign TLS data, allowing users to make proofs about the content of data served to them over https.
+- [Vultisig](https://vultisig.com/) - Seedless, fully self-custodial multi-chain crypto wallet. The private key is never assembled in one place; key generation and signing run as DKLS23 threshold signatures across the user's own devices. Open source clients for iOS, Android, desktop, and browser.
 
 ### Frameworks
 
